@@ -1,12 +1,11 @@
-# Aditu
+# Future News
 
-Aditu is a stylish and modern dark theme with a clean and unique design, this theme is created for those who want to share their stories quickly and easily, as well as provide your readers with an unforgettable experience of viewing content.
-
+Future news hosts ai / human generated content in the style of an online media outlet.
 * * *
 
-### Demo
+### Beta
 
-Check the theme in action [Demo](https://aditu.netlify.com/)
+Betad development is hosted [HERE](https://futurenewsbrg.netlify.com/)
 
 * * *
 
@@ -20,5 +19,44 @@ I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/de
 * * *
 
 ### Documentation
+To develop this repo you need to have a ruby development environment. This is required if you need to fully verify a post before submitting.  
 
-Before using the Aditu theme, please read the attached documentation.
+Install ```rbenv```
+
+```rbenv``` is a tool that helps you manage multiple Ruby versions on a single system. It allows you to switch between different versions of Ruby easily.macOS
+
+You can install ```rbenv``` using Homebrew:```brew install rbenv
+```Linux
+
+You can install ```rbenv``` using Git:bash
+```bash
+git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' &gt;&gt; ~/.bashrc
+echo 'eval "$(rbenv init -)"' &gt;&gt; ~/.bashrc
+```Windows
+
+You can install ```rbenv``` on Windows using the Windows Subsystem for Linux (WSL). Follow the Linux instructions after installing WSL.Installing Ruby
+
+Now that you have ```rbenv``` installed, you can use it to install a version of Ruby.```rbenv install 2.7.2
+```
+
+You can check the available versions of Ruby by running:css
+```css
+rbenv install --list
+```
+
+Choose the version you want to install and replace ```2.7.2``` with that version in the command above.Installing Bundler
+
+Bundler is a tool that manages dependencies for futurenews.```gem install bundler
+```Running Jekyll
+
+Install the dependencies by running:```bundle install
+```
+
+You can now serve futurenews by running:python
+```python
+bundle exec jekyll serve
+```
+
+futurenews should now be running at http://localhost:4000.
+
