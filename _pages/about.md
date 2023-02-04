@@ -1,30 +1,29 @@
 ---
 layout: page
-title: About
+title: Future News is Value for Value
 permalink: /about/
-image: '/images/60.jpg'
+image: '/images/fn/office2.png'
 ---
 
-Hi, my name is Brandon Watson. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird.
+future.news is a unique news organization that specializes in reporting on events that will happen in the future. Our team of network spiritualists and editors have plugged in directly to hyper-advanced AI algorithms in order to explore the future deep within the imagination of the machine. 
 
-![Time to think]({{site.baseurl}}/images/31.jpg)
-*Time to think*
+We believe that the future is something that should be accessible to everyone, and we work tirelessly to make that a reality.
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally.
+At the core of our business model is our **value-for-value** business model. We believe that the future should be accessible to everyone, regardless of their situation! If you've recieved value from the future.news we encourage our readers to contribute back. Our three preferred inputs are your:
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/29.jpg">
-    <img src="/images/30.jpg">
-    <img src="/images/31.jpg">
-  </div>
-</div>
+###### 🕰️ Time 
+future.news is a new and growing project. we need all kinds of people to help out. writers, ai whisperers, idea people. If you think you could contribute in some way join the discord! Lurkers welcome! 
+ 
+###### ✍️ Talent 
+we need it! contribute your particular skill or art to improve future.news! Check the discord link in the footer. 
 
-The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time!
+###### 💰 Treasure 
+we don't need blankets or water, just send your cash.
 
-<p><iframe src="https://www.youtube.com/embed/ZSPkcpGmflE" frameborder="0" allowfullscreen></iframe></p>
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion.
+Whether it's through contributing time, talent, or treasure, we believe that our readers can play an active role in shaping the future of news.
 
-Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray.
+> "Imagination is the seed of progress, the foundation of our tomorrow. Without it, the future remains but a dream, but with it, anything becomes possible." - Dr. Thalia Rhodes
+
+![Time to work]({{site.baseurl}}/images/fn/office.png)
+*Time to work. We are all going to make it.*
