@@ -10,24 +10,23 @@ url: "https://futurenewsbrg.netlify.app" # The base hostname & protocol for your
 #-------------------------------
 # Author Settings
 author:
-  name: Brandon Watson
-  avatar: '/images/15.jpg'
+  name: nan
+  avatar: '/images/fn/nan.png'
 
 
 #-------------------------------
 # Hero Settings
 hero:
   title: Future News
-  description: Headlines through the looking glass
+  description: Headlines Through the Looking Glass
   image: '/images/fn/futureman.png'
 
 
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contant form
-  description: The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time! # Add a description of your form
-
+  email: noreply@future.news # Add your email for contant form
+  description: Consider this the circular file.
 # NOTE
 # Aditu theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 
@@ -37,11 +36,8 @@ contact:
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/futurenewsorg"}
+- {icon: "ion-logo-discord", link: "https://pinterest.com/"}
 - {icon: "ion-logo-github", link: "https://github.com"}
 
 
@@ -57,7 +53,7 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Newsletter
-mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
+mailchimp: false # To enable the mailchimp form, use the value true. To turn off use the value false.
 mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 
@@ -68,6 +64,7 @@ permalink: pretty
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
   - jekyll/tagging
 
 paginate: 9
