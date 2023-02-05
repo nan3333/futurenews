@@ -5,16 +5,13 @@ Future news hosts ai / human generated content in the style of an online media o
 
 ### Beta
 
-Betad development is hosted [HERE](https://lookingglass.netlify.com/)
+ [go here](https://lookingglass.netlify.com/)
 
 * * *
 
 ### Deployment
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `bundle exec jekyll serve` to start the Jekyll server.
-
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
-
+To run the site locally check out the documentation below. Once dependencies are installed, navigate to the theme directory and run `bundle install` to install the dependencies, then run `bundle exec jekyll serve` to start the Jekyll server.
 
 * * *
 
@@ -27,15 +24,16 @@ To develop this repo you need to have a ruby development environment. This is re
 
 ##### macOS
 
-You can install ```rbenv``` using Homebrew:```brew install rbenv```
+You can install ```rbenv``` using Homebrew:
+```brew install rbenv```
 
 ##### Linux
 
 You can install ```rbenv``` using Git:bash
 ```bash
 git clone https://github.com/rbenv/rbenv.git ~/.rbenv
-echo 'export PATH="$HOME/.rbenv/bin:$PATH"' &gt;&gt; ~/.bashrc
-echo 'eval "$(rbenv init -)"' &gt;&gt; ~/.bashrc
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(rbenv init -)"' >> ~/.bashrc
 ```
 ##### Windows
 
@@ -43,7 +41,8 @@ You can install ```rbenv``` on Windows using the Windows Subsystem for Linux (WS
 
 #### Installing Ruby
 
-Now that you have ```rbenv``` installed, you can use it to install a version of Ruby.```rbenv install 3.1.3```
+Now that you have ```rbenv``` installed, you can use it to install a version of Ruby. 
+```rbenv install 3.1.3```
 
 You can check the available versions of Ruby by running:css
 
@@ -55,11 +54,13 @@ Choose the version you want to install and replace ```3.1.3``` with that version
 
 #### Installing Bundler
 
-Bundler is a tool that manages dependencies for futurenews.```gem install bundler```
+Bundler is a tool that manages dependencies for futurenews.
+```gem install bundler```
 
 #### Running Jekyll
 
-Install the dependencies by running:```bundle install```
+Install the dependencies by running:
+```bundle install```
 
 You can now serve futurenews by running
 ```
