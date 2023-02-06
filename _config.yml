@@ -43,6 +43,7 @@ social:
 
 #-------------------------------
 # Comment Section (Disqus)
+disqus: false
 disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
 
 
