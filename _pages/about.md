@@ -10,7 +10,7 @@ At the core of our business is our value-for-value business model. If you've rec
 <center><h5>Time, Talent, or Treasure </h5></center>
 The future needs your help. writers, artists,  technology  whisperers, idea people, if you think you could contribute in some way join the discord! Lurkers welcome! 
 
-Ethereum cryptolint can be sent to `futurenews.eth`. We don't need blankets or water, just send your cash. ~~`$futurenewsorg`~~
+Ethereum cryptolint can be sent to `futurenews.eth`.~
 
 
 
