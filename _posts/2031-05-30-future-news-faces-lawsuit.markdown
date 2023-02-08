@@ -27,5 +27,3 @@ This lawsuit has the potential to become a major landmark case in the digital ar
 
 The outcome of the trial will set an important precedent for future cases and could have far-reaching consequences for the digital art world.
 
-![The best day in my life]({{site.baseurl}}/images/34.jpg)
-*The best day in my life*
