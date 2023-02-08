@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Network Seer Goes Missing, Only Clue Found is "The First Post"
-date:  2021-01-29 12:00:00 +0700
+date:  2024-01-29 12:00:00 +0700
 image: '/images/fn/spi2.png'
 tags: world webp
 ---
