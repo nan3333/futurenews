@@ -10,7 +10,7 @@ url: "https://futurenewsbrg.netlify.app" # The base hostname & protocol for your
 #-------------------------------
 # Author Settings
 author:
-  name: nan
+  name: FNN
   avatar: '/images/fn/nan.png'
 
 
@@ -38,7 +38,7 @@ contact:
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/futurenewsorg"}
 - {icon: "ion-logo-discord", link: "https://pinterest.com/"}
-- {icon: "ion-logo-github", link: "https://github.com"}
+- {icon: "ion-logo-github", link: "https://github.com/nan3333/futurenews"}
 
 
 #-------------------------------
@@ -60,6 +60,7 @@ mailchimp-identifier: # Add your MailChimp form identifier. For example - blogen
 
 #-------------------------------
 # Build settings
+future: true
 markdown: kramdown
 permalink: pretty
 plugins:
