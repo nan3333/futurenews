@@ -8,9 +8,9 @@ permalink: /about/
 At the core of our business is our value-for-value business model. If you've recieved value from the future.news pleases consider volunteering  your:
 
 <center><h5>Time, Talent, or Treasure </h5></center>
-The future needs your help. writers, artists,  technology  whisperers, idea people, if you think you could contribute in some way join the discord! Lurkers welcome! 
+The future needs your help. writers, artists,  technology  whisperers, idea people, if you think you could contribute in some way join the discord!
 
-Ethereum cryptolint can be sent to `futurenews.eth`.~
+Ethereum cryptolint can be sent to <a>futurenews.eth</a>.
 
 
 
