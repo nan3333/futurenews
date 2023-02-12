@@ -1,9 +1,10 @@
 ---
 layout: post
+featured: true
 title:  Future News Faces Lawsuit Over Fair Use of Machine Art
 date:   2023-01-30 18:05:55 +0300
 image:  '/images/fn/protest.png'
-tags:   world webp classical
+tags:   world
 ---
 
 ## Controversy Over Derived Machine Art 
@@ -26,6 +27,3 @@ The trial will be livestreamed in both augmented reality conference and brain-in
 This lawsuit has the potential to become a major landmark case in the digital art industry and could shape how similar issues are handled in the future. With technology advancing rapidly, the distinction between human-made and machine-generated content is becoming increasingly blurred, making it a challenge for artists to protect their rights and for organizations to use such content ethically.
 
 The outcome of the trial will set an important precedent for future cases and could have far-reaching consequences for the digital art world.
-
-![The best day in my life]({{site.baseurl}}/images/34.jpg)
-*The best day in my life*
