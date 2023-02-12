@@ -82,15 +82,15 @@
 
 .post__meta {
   display: flex;
-  align-items: center;
+  align-items: left;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: left;
   color: $white;
 }
 
 .post__author {
   display: flex;
-  align-items: center;
+  align-items: left;
   &-image {
     display: inline-block;
     width: 25px;
