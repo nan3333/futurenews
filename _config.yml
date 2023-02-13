@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Future News
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: '/images/fnn3.png' # You can add own logo. For example '/images/logo.png'.
 description: Headlines through the looking glass
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://futurenewsbrg.netlify.app" # The base hostname & protocol for your site, e.g. http://example.com
@@ -11,7 +11,7 @@ url: "https://futurenewsbrg.netlify.app" # The base hostname & protocol for your
 # Author Settings
 author:
   name: FNN
-  avatar: '/images/fn/nan.png'
+  avatar: '/images/fnnsmall.jpg'
 
 
 #-------------------------------
